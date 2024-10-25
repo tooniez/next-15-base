@@ -6,9 +6,13 @@ tags:
   - typescript
 ---
 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/U-HNN5?referralCode=xOmFy8)
+
 
 First, run the development server:
 
@@ -34,6 +38,9 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[NextJS 15 Base Template](https://railway.app/template/U-HNN5?referralCode=xOmFy8)
+- [Railway](https://railway.app) - deploy your Next.js app in seconds.
+
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
